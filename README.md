@@ -3,8 +3,8 @@
 
 ## Installation
 ![Installation](https://i.imgur.com/Za85hmM.png)
-Go to https://openweathermap.org/
+Go to https://openweathermap.org/ \
 Make Account\
 Find TAB API\
-Paste API into ''\ 
+Paste API into ''
 ### and that it!
